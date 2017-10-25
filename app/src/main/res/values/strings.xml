@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="number_title">Current Number:</string>
+    <string name="roll_button_text">ROLL</string>
+</resources>
